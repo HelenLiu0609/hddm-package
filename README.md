@@ -1,2 +1,2 @@
 # hddm-package
-install hddm in colab
+install newest hddm in colab
